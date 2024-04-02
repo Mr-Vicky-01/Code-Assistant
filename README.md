@@ -2,7 +2,7 @@
 
 # Code Assistant
 
-Code Assistant is a tool designed to help users with their coding-related queries. It utilizes the Google Gemini model powered by LangChain API to provide accurate and helpful responses to user inquiries.
+Code Assistant is a tool designed to help users with their coding-related queries. It utilizes the Gemini model powered by LangChain API to provide accurate and helpful responses to user inquiries.
 
 ## Features
 
