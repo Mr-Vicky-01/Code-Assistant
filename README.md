@@ -1,7 +1,9 @@
+![OIP](https://github.com/Mr-Vicky-01/Code-Assistant/assets/143078285/793049f6-4863-42af-ba8e-12657b1e484d)
+
 # Code Assistant
 
 Code Assistant is a tool designed to help users with their coding-related queries. It utilizes the Google Gemini model powered by LangChain API to provide accurate and helpful responses to user inquiries.
-![OIP](https://github.com/Mr-Vicky-01/Code-Assistant/assets/143078285/dc2488fe-5a01-4e55-9579-9693a6a5b020)
+
 ## Features
 
 - **Code Query**: Users can input their coding questions or problems.
