@@ -1,8 +1,8 @@
 ![OIP](https://github.com/Mr-Vicky-01/Code-Assistant/assets/143078285/793049f6-4863-42af-ba8e-12657b1e484d)
 
-# Code Assistant
+# GenXai - Code Assistant
 
-Code Assistant is a tool designed to help users with their coding-related queries. It utilizes the Gemini model powered by LangChain API to provide accurate and helpful responses to user inquiries.
+This is GenXai (Generation Expert AI), designed to assist with programming-related questions. This AI can help you answer your coding queries, fix errors, and much more. Additionally, you can chat with GenXai to build and refine your questions, facilitating a more productive conversation.
 
 ## Features
 
