@@ -28,4 +28,4 @@ There is no need for installation as the Code Assistant is hosted on the provide
 git clone https://github.com/Mr-Vicky-01/Code-Assistant.git
 ```
 ## Screen Shot
-![image](https://github.com/Mr-Vicky-01/Code-Assistant/assets/143078285/0312df62-910a-40e9-ae4a-8a52bfb5aa1b)
+![Screenshot 2024-05-17 174101](https://github.com/Mr-Vicky-01/Code-Assistant/assets/143078285/3170a48f-0178-4183-aa6c-acfbcb23b3ec)
